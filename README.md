@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-install all the dependency of package.json file usning commnad like  npm install
+install all the dependency of package.json file usning commnad like  ###`npm install`
 
 ## Available Scripts
 
