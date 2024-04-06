@@ -14,14 +14,26 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  min-height: 1320;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Heading {
+  font-weight:900;
+  color: green;
+}
+.Row-header {
+  color: rgb(18, 18, 228) !important;
+  font-weight: 600;
+}
+.No-data {
+  font-weight: 700;
+  color: brown;
 }
 
 .App-link {
